@@ -4,3 +4,5 @@
 <a href="https://github.com/shekelboi/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shekelboi&show_icons=true&theme=radical" />
 </a>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shekelboi?theme=nord&font=Gugi)
